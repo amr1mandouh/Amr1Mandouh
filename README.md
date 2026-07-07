@@ -55,6 +55,10 @@ I work on improving AI systems through data evaluation, prompt analysis, and qua
 ![LLM](https://img.shields.io/badge/LLM-Evaluation-blue?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-green?style=for-the-badge)
 
+## ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
+
 ---
 
 ## 🚀 Featured Projects
@@ -70,6 +74,14 @@ A dashboard for evaluating AI responses, comparing outputs, and analyzing model 
 - Data Analysis
 
 
+## 🎯 Currently Learning
+
+- Advanced LLM Evaluation
+- Prompt Engineering
+- React Advanced Patterns
+- AI Automation Workflows
+
+
 ### 📄 AI Resume Analyzer
 
 An AI-powered tool that analyzes resumes and provides improvement suggestions.
@@ -82,15 +94,16 @@ An AI-powered tool that analyzes resumes and provides improvement suggestions.
 
 ## 📊 GitHub Stats
 
-![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amr1Mandouh&show_icons=true&theme=transparent)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Amr1Mandouh)
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
+LinkedIn | GitHub | Email
 - LinkedIn: https://www.linkedin.com/in/amr1mandouh
 - GitHub: https://github.com/Amr1Mandouh
 
+ ![Visitors](https://komarev.com/ghpvc/?username=Amr1Mandouh)
 ---
 
 ⭐ Always learning, building, and exploring the future of AI.
