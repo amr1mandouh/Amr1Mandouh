@@ -1,4 +1,4 @@
-![Banner](Gemini_Generated_Image_toyg8gtoyg8gtoyg.png)
+![Banner](INDEX.png)
 
 # Hi, I'm Amr Mandouh 👋
 
