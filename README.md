@@ -8,10 +8,10 @@ I'm passionate about Artificial Intelligence, Large Language Models, and Front-E
 I work on improving AI systems through data evaluation, prompt analysis, and quality assessment while building modern web interfaces using React.js.
 
 ## 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge)](https://amr1mandouh.github.io/portfolio/)
-Check out my portfolio:
-👉 https://amr1mandouh.github.io/portfolio/
 
+<a href="https://amr1mandouh.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/VISIT-MY%20PORTFOLIO-007acc?style=for-the-badge&logo=react&logoColor=white" alt="Visit My Portfolio">
+</a>
 ---
 
 ## 🚀 About Me
