@@ -7,6 +7,11 @@
 I'm passionate about Artificial Intelligence, Large Language Models, and Front-End Development.  
 I work on improving AI systems through data evaluation, prompt analysis, and quality assessment while building modern web interfaces using React.js.
 
+## 🌐 Portfolio
+
+Check out my portfolio:
+👉 https://amr1mandouh.github.io/portfolio/
+
 ---
 
 ## 🚀 About Me
