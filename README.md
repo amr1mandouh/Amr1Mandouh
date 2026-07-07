@@ -44,14 +44,27 @@ I work on improving AI systems through data evaluation, prompt analysis, and qua
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-### 🔹 AI & LLM Projects
-Coming soon...
+### 🤖 LLM Evaluation Dashboard
 
-### 🔹 React Projects
-Coming soon...
+A dashboard for evaluating AI responses, comparing outputs, and analyzing model performance.
 
+**Tech Stack:**
+- React.js
+- JavaScript
+- AI APIs
+- Data Analysis
+
+
+### 📄 AI Resume Analyzer
+
+An AI-powered tool that analyzes resumes and provides improvement suggestions.
+
+**Tech Stack:**
+- React.js
+- OpenAI API
+- Prompt Engineering
 ---
 
 ## 📊 GitHub Stats
