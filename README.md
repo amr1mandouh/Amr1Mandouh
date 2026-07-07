@@ -1,5 +1,5 @@
 ![Banner](INDEX.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&width=600&lines=AI+Data+Specialist;LLM+Evaluator;React.js+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&lines=AI+Data+Specialist;LLM+Evaluator;React.js+Developer)](https://git.io/typing-svg)
 # Hi, I'm Amr Mandouh 👋
 
 ## AI Data Specialist | LLM Evaluator | Front-End Developer (React.js)
@@ -9,7 +9,7 @@ I work on improving AI systems through data evaluation, prompt analysis, and qua
 
 ## 🌐 Portfolio
 
-<a href="https://amr1mandouh.github.io/portfolio/" target="_blank">
+<a href="https://amr1mandouh.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/VISIT-MY%20PORTFOLIO-007acc?style=for-the-badge&logo=react&logoColor=white" alt="Visit My Portfolio">
 </a>
 ---
