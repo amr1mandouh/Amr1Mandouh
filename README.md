@@ -1,3 +1,5 @@
+![Banner](Gemini_Generated_Image_toyg8gtoyg8gtoyg.png)
+
 # Hi, I'm Amr Mandouh 👋
 
 ## AI Data Specialist | LLM Evaluator | Front-End Developer (React.js)
@@ -66,3 +68,4 @@ Coming soon...
 ---
 
 ⭐ Always learning, building, and exploring the future of AI.
+
