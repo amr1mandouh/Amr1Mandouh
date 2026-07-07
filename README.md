@@ -51,6 +51,9 @@ I work on improving AI systems through data evaluation, prompt analysis, and qua
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![AI](https://img.shields.io/badge/AI-Generative%20AI-purple?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Evaluation-blue?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-green?style=for-the-badge)
 
 ---
 
