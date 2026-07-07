@@ -12,7 +12,6 @@ I work on improving AI systems through data evaluation, prompt analysis, and qua
 <a href="https://amr1mandouh.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/VISIT-MY%20PORTFOLIO-007acc?style=for-the-badge&logo=react&logoColor=white" alt="Visit My Portfolio">
 </a>
----
 
 ## 🚀 About Me
 
