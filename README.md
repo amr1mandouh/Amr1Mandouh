@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./INDEX.png" alt="Amr Mandouh — Full-Stack Software Engineer and AI Data Specialist" width="100%">
+  <img src="./INDEX.gif" alt="Amr Mandouh — Full-Stack Software Engineer and AI Data Specialist" width="100%">
 </p>
 
 <p align="center">
