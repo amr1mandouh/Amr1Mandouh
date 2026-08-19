@@ -1,115 +1,83 @@
-![Banner](INDEX.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007acc&width=600&lines=AI+Data+Specialist;LLM+Evaluator;React.js+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <img src="./INDEX.png" alt="Amr Mandouh — Full-Stack Software Engineer and AI Data Specialist" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/amr1mandouh/portfolio">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/amr1mandouh">LinkedIn</a> ·
+  <a href="https://wa.me/201551303080">WhatsApp</a> ·
+  <a href="mailto:amr1mandouh@gmail.com">Email</a>
+</p>
 
 # Hi, I'm Amr Mandouh 👋
 
-## AI Data Specialist | LLM Evaluator | Front-End Developer (React.js)
+Full-Stack Software Engineer from Cairo, Egypt, with a focus on modern web products, AI data quality, and LLM evaluation.
 
-I'm passionate about Artificial Intelligence, Large Language Models, and Front-End Development.  
-I work on improving AI systems through data evaluation, prompt analysis, and quality assessment while building modern web interfaces using React.js.
+I build practical interfaces and internal tools with React, TypeScript, and Node.js. I also work on structured data review, prompt analysis, Arabic-English quality workflows, and human-centered AI evaluation.
 
-## 🌐 Portfolio
+## What I do
 
-<a href="https://amr1mandouh.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/VISIT-MY%20PORTFOLIO-007acc?style=for-the-badge&logo=react&logoColor=white" alt="Visit My Portfolio">
-</a>
+- Build responsive web experiences with React, TypeScript, JavaScript, and Tailwind CSS.
+- Create and maintain internal systems, structured records, and data workflows.
+- Evaluate AI and LLM outputs for quality, accuracy, consistency, and instruction-following.
+- Review Arabic-English content and improve data quality through clear, repeatable processes.
 
-## 🚀 About Me
+## Experience
 
-- 🤖 AI Data Specialist & LLM Evaluator
-- 💻 Front-End Developer specializing in React.js
-- 🧠 Interested in Generative AI, Prompt Engineering, and AI Model Evaluation
-- 🌱 Currently improving my skills in AI workflows and modern web technologies
-- ⚡ Love learning new technologies and solving problems
+### Data Entry & Internal Systems Specialist — Nusuk Umrah, Saudi Arabia
 
----
+**Jul 2026 – Present**
 
-## 🛠️ Skills
+- Prepare and enter hotel agreements and related accommodation data.
+- Enter, update, and review Umrah visa information.
+- Review agent reports concerning missing people or belongings and keep records organized.
 
-### Artificial Intelligence
-- LLM Evaluation
-- Data Annotation
-- AI Response Quality Assessment
-- Prompt Engineering
-- Generative AI
+## Tech stack
 
-### Front-End Development
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Responsive Design
-- REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,vite,supabase,firebase,git,github" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Tailwind, Vite, Supabase, Firebase, Git and GitHub">
+</p>
 
-### Tools
-- Git & GitHub
-- VS Code
-- Figma
-- AI Tools
+**Also:** REST APIs · Responsive Design · Testing & QA · Data Annotation · LLM Evaluation · Prompt Engineering
 
-### Technologies & Tools
+## Featured projects
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![AI](https://img.shields.io/badge/AI-Generative%20AI-purple?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-Evaluation-blue?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-green?style=for-the-badge)
+### [Portfolio](https://github.com/amr1mandouh/portfolio)
 
-## ⚡ Tech Stack
+My personal portfolio showcasing selected software engineering, AI data, and front-end work.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
+### [Andalusí](https://andalusi-liard.vercel.app/)
 
----
+A polished web experience focused on clear presentation, responsive layout, and modern visual design.
 
-## 🚀 Featured Projects
+### [TideGlyph](https://github.com/amr1mandouh/tideglyph)
 
-### 🤖 LLM Evaluation Dashboard
+A coastal research board for tracking observations, filtering survey records, and managing active field work.
 
-A dashboard for evaluating AI responses, comparing outputs, and analyzing model performance.
+### [FossilNote](https://github.com/amr1mandouh/fossilnote)
 
-**Tech Stack:**
-- React.js
-- JavaScript
-- AI APIs
-- Data Analysis
+A structured note-taking experience for organizing research findings and reference details.
 
+### [QuietCue](https://github.com/amr1mandouh/quietcue)
 
-## 🎯 Currently Learning
+A focused interface for capturing small reminders and turning them into clear, actionable cues.
 
-- Advanced LLM Evaluation
-- Prompt Engineering
-- React Advanced Patterns
-- AI Automation Workflows
+### [RadioFable](https://github.com/amr1mandouh/radiofable)
 
+An editorial-style audio and story concept built around discovery, browsing, and immersive presentation.
 
-### 📄 AI Resume Analyzer
+## Currently
 
-An AI-powered tool that analyzes resumes and provides improvement suggestions.
+Working across software engineering, data operations, and AI evaluation while continuing to build useful, thoughtful web products.
 
-**Tech Stack:**
-- React.js
-- OpenAI API
-- Prompt Engineering
----
+## Connect with me
 
-## 📊 GitHub Stats
+- [LinkedIn](https://www.linkedin.com/in/amr1mandouh)
+- [GitHub](https://github.com/amr1mandouh)
+- [Instagram](https://www.instagram.com/amr1diablo/)
+- [WhatsApp](https://wa.me/201551303080)
+- [Email](mailto:amr1mandouh@gmail.com)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Amr1Mandouh)
----
-
-## 📫 Connect With Me
-
-LinkedIn | GitHub | Email
-- LinkedIn: https://www.linkedin.com/in/amr1mandouh
-- GitHub: https://github.com/Amr1Mandouh
-
- ![Visitors](https://komarev.com/ghpvc/?username=Amr1Mandouh)
----
-
-⭐ Always learning, building, and exploring the future of AI.
-
+<p align="center">
+  <i>Always learning, building, and improving.</i>
+</p>
